@@ -11,7 +11,7 @@ const decrement = () => {
 
 <template>
   <header>
-    <h1>hello nitin</h1>
+    <h1>Counter app</h1>
     <p>{{ counter }}</p>
     <button @click="increment">Increment</button>
     <button @click="decrement">Decrement</button>
